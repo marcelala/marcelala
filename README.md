@@ -8,7 +8,7 @@
 
 ### Current Stack: 
 
-Front-End: **React** **Sass** **HTML/CSS**
+Front-End: **Javascript** **React** **Sass**
 <br />
 Back-End: **Java** **PostgreSQL**
 
