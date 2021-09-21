@@ -10,7 +10,7 @@
 
 Front-End: **Javascript** **React** **Sass**
 <br />
-Back-End: **Java** **PostgreSQL**
+Back-End: **Java**
 
 
 
