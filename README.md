@@ -8,7 +8,7 @@
 
 <br />
 
-🤓        I’m planning to learn how to work with Node.js soon
+🤓        I’m planning to learn how to work with [Deno](https://deno.land/) soon
 
 <br />
 
