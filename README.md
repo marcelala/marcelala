@@ -6,8 +6,6 @@
 🖥       On my spare time I'm working on a crowd knowledge sharing app for @Beela.se to suppor immigrant women and non-binary people in tech. This currently entails in lots of learnings in GraphQL, Apollo, creating APIs, environments set up & more. 
 
 
-🤓        I’m planning to learn how to work with [Deno](https://deno.land/) soon
-
 
 :herb:      I’m always looking to build meaningful apps!
 
